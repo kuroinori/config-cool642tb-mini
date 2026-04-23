@@ -46,7 +46,7 @@
             bindings = <
 &kp Q      &kp L           &kp U         &kp COMMA     &kp PERIOD                                      &kp F        &kp W  &kp R  &kp Y  &kp P
 &kp E      &kp I           &kp A         &kp O         &kp MINUS     &kp LC(Y)       &kp TAB           &kp K        &kp T  &kp N  &kp S  &kp H
-&kp Z      &kp X           &kp C         &kp V         &kp SLASH     &lt 1 INT5      &lt 2 INT_HENKAN  &kp G        &kp D  &kp M  &kp J  &kp MINUS
+&kp Z      &kp X           &kp C         &kp V         &kp SLASH     &lt 1 INT5      &lt 2 INT_HENKAN  &kp G        &kp D  &kp M  &kp J  &kp B
 &kp LCTRL  &kp LEFT_SHIFT  &kp LEFT_GUI  &kp LEFT_ALT  &lt 4 DELETE  &kp SPACE       &kp BACKSPACE     &lt 3 ENTER                       &kp SLASH
             >;
 
